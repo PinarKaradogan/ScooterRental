@@ -1,0 +1,6 @@
+@ScooterRental.API_HostAddress = http://localhost:5127
+
+GET {{ScooterRental.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
