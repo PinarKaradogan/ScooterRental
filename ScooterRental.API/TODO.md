@@ -5,7 +5,7 @@
 - [x] Projelerin birbirine referans olarak eklenmesi.
 - [x] Entity sınıflarının oluşturulması (`User`, `Scooter`, `Rental`).
 - [x] Entity Framework Core ve PostgreSQL paketlerinin uyumlu sürümlerinin (v8.0.0) yüklenmesi.
-- [x] Projenin başarıyla derlenmesi (Build Succeeded).
+- [ ] Projenin başarıyla derlenmesi (Build Succeeded).
 
 ## 🗄️ 2. Aşama: Veritabanı (Buradayız 📍)
 - [ ] PostgreSQL'in bilgisayara temiz kurulumunun yapılması ve şifrenin belirlenmesi.
